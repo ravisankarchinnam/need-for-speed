@@ -22,8 +22,7 @@ Technologies used as part of Implementation:
     Way-2 : mvn clean package spring-boot:run (using maven)
 
 
-#------------------------------------------------------------------------------------------------------------------
-# Results can be verified by accessing following:
+## Results can be verified by accessing following:
 
 ## In Local:
 Swagger UI is configured in this application to provide rest endpoints.
@@ -31,21 +30,24 @@ So if you want to test the API, you can visit http://localhost:8080
 
 ### example login info(you can also use some users from resources/data.sql). 
 user name: driver01
+
 password: driver01pw
 
-To access in memory DB(h2 console): https://localhost:8080/h2-console/
-
+### To access in memory DB(h2 console): https://localhost:8080/h2-console/
 Driver Class: org.h2.Driver
+
 JDBC URL: jdbc:h2:mem:speed-app;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+
 User Name: sa
+
 Password: 
 
 
 ## Cloud (HEROKU public URL):
-
 To inspect and access endpoints using Swagger-UI: https://speed-car.herokuapp.com/
 
 ### example login info.
 user name: driver01
+
 password: driver01pw
 

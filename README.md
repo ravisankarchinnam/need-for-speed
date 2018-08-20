@@ -1,6 +1,9 @@
 # Speed Car Test Service
 This is a Standalone Spring boot MVC project with TDD demonstrates the online driver car services API.
 
+[![Build Status](https://travis-ci.org/ravisankarchinnam/need-for-speed.svg?branch=master)](https://travis-ci.org/ravisankarchinnam/need-for-speed)
+
+
 ## Introduction:
 Technologies used as part of Implementation:
 

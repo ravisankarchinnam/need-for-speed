@@ -46,7 +46,7 @@ public class NeedForSpeedApplication extends WebMvcConfigurerAdapter
     private ApiInfo generateApiInfo()
     {
         return new ApiInfo(
-            "Speed Test Service", "This service is to check the driver and car for Cab service.", "Version 1.0 - mw",
+            "Need for Speed Rest Service", "This service is to check the driver and car for Cab service.", "Version 1.0 - mw",
             "urn:tos", "ravisankarchinnam@gmail.com", "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
     }
 }

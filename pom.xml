@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<!-- dependency versions -->
-		<com.google.guava.guava.version>30.0-jre</com.google.guava.guava.version>
+		<com.google.guava.guava.version>32.0.0-jre</com.google.guava.guava.version>
 		<io.springfox.springfox-swagger2>2.3.1</io.springfox.springfox-swagger2>
 		<io.springfox.springfox-swagger-ui>2.3.1</io.springfox.springfox-swagger-ui>
 		<org.apache.commons-lang3>3.5</org.apache.commons-lang3>
